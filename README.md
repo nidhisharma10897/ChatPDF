@@ -7,16 +7,16 @@ So, ChatPDF is basically an innovative web scraping tool designed to efficiently
 
 Key Features:
 
-1.LangChain Integration:
-•Implemented ChatPDF using LangChain, leveraging its Language Model (LLM) capabilities.
+1.LangChain Integration:                                                                                                  
+•Implemented ChatPDF using LangChain, leveraging its Language Model (LLM) capabilities.                                                                                                                             
 •Utilized LangChain's OpenAI integration for advanced language understanding.
 
 2.OpenAI Embeddings:
-•Incorporated OpenAI embeddings to enhance the extraction of meaningful data from the PDF documents.
+•Incorporated OpenAI embeddings to enhance the extraction of meaningful data from the PDF documents.                                                                                                                
 •The integration with OpenAI contributes to the tool's ability to understand and interpret diverse language structures.
 
 3.Milvus Vector Database:
-•Integrated the Milvus vector database for efficient data retrieval, contributing to enhanced speed and overall performance.
+•Integrated the Milvus vector database for efficient data retrieval, contributing to enhanced speed and overall performance.                                                                                        
 •The vector database facilitates the storage and retrieval of document embeddings, optimizing the processing of large datasets.
 
 4.Streamlit Interface:
